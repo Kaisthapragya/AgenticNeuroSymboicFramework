@@ -5,6 +5,7 @@ An Agentic Neuro-Symbolic Framework for Explainable Chronic Disease Monitoring i
 A hybrid AI system combining **LSTM/Transformer + symbolic rules** to predict diabetes risk and generate actionable alerts.
 
 ## Features
+- Dataset used: ([https://zenodo.org/records/17361905])
 - Features (glucose, insulin, nutrition, activity, etc.)
 - Explainable rule-based reasoning
 - Neuro-symbolic fusion for safer predictions
