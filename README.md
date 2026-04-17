@@ -20,6 +20,6 @@ A hybrid AI system combining **LSTM/Transformer + symbolic rules** to predict di
 - Improved reliability with safety overrides
 
 ## By
-Pragya
-Parth Hardeniya
-Piyush Kumar Pandey
+- Pragya
+- Parth Hardeniya
+- Piyush Kumar Pandey
