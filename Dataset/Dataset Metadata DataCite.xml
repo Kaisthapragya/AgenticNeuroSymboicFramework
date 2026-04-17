@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.15196914</identifier>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://zenodo.org/records/15196914</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="oai">oai:zenodo.org:15196914</alternateIdentifier>
+  </alternateIdentifiers>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Alsuhaymi, Ashwaq</creatorName>
+      <givenName>Ashwaq</givenName>
+      <familyName>Alsuhaymi</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-6651-283X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Bilal, Ahmad</creatorName>
+      <givenName>Ahmad</givenName>
+      <familyName>Bilal</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0296-122X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Gasca Garcia, Daniel</creatorName>
+      <givenName>Daniel</givenName>
+      <familyName>Gasca Garcia</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-3944-3234</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Kongdee, Rujiravee</creatorName>
+      <givenName>Rujiravee</givenName>
+      <familyName>Kongdee</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-0375-2833</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Lubasinski, Nicole</creatorName>
+      <givenName>Nicole</givenName>
+      <familyName>Lubasinski</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0001-5829-8258</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Hood, Thabit</creatorName>
+      <givenName>Thabit</givenName>
+      <familyName>Hood</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0001-6076-6997</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Paul, Nutter</creatorName>
+      <givenName>Nutter</givenName>
+      <familyName>Paul</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-4075-861X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Harper, Simon</creatorName>
+      <givenName>Simon</givenName>
+      <familyName>Harper</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0001-9301-5049</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>T1D-UOM – A Longitudinal Multimodal Dataset of Type 1 Diabetes</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2025</publicationYear>
+  <dates>
+    <date dateType="Issued">2025-04-11</date>
+    <date dateType="Updated">2025-04-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Software"></resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo" resourceTypeGeneral="Software">https://github.com/sharpic/ManchesterCSCoordinatedDiabetesStudy/tree/V1.0.2</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.15169263</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsIdenticalTo">https://archive.softwareheritage.org/swh:1:dir:07581e6d8304b965ac2362b51f482b74f6e1dc34;origin=https://doi.org/10.5281/zenodo.15169263;visit=swh:1:snp:b1c60239f8f5b2b568945d21be51f38f9b6a1da4;anchor=swh:1:rel:7a09e899ec20c623b63051220db722b6df5ea93c;path=sharpic-ManchesterCSCoordinatedDiabetesStudy-c4726b2</relatedIdentifier>
+  </relatedIdentifiers>
+  <version>V1.0.2</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-4.0">Creative Commons Attribution 4.0 International</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">People living with Type 1 Diabetes (PwT1D) have to continuously monitor their blood glucose levels and make clinical, safety-related decisions multiple times a day to maintain glycaemic control within the clinically recommended ranges. Significant efforts have been made to develop algorithms that could assist PwT1D in managing their blood glucose more effectively. Automated insulin delivery (AID) has been shown to improve glycaemic control. However, access to AID remains variable in many parts of the world and there are limited publicly available comprehensive datasets required for algorithm development in scenarios where AID systems revert to manual mode. This study addresses this gap by providing a detailed multimodal dataset encompassing five key aspects: blood glucose levels, basal (rapid- or long-acting) and bolus insulin dosages, nutritional intake (including carbohydrates, protein, fat and fibre content), physical activity (steps count, active calories, distance covered, MET and intensity level), and sleep patterns. The dataset comprises longitudinal (3 months) data collected from 17 PwT1D, in real-world settings. By offering this resource, the study aims to facilitate advancements in algorithm development, ultimately enhancing diabetes management and expanding support for PwT1D in settings where AID use is less prevalent.</description>
+    <description descriptionType="Other">If you use this dataset, please cite it using these metadata.</description>
+  </descriptions>
+</resource>

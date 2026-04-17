@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it using these metadata.
+title: T1D-UOM – A Longitudinal Multimodal Dataset of Type 1 Diabetes
+abstract: |
+  People living with Type 1 Diabetes (PwT1D) have to continuously monitor their blood glucose levels and make clinical, safety-related decisions multiple times a day to maintain glycaemic control within the clinically recommended ranges. Significant efforts have been made to develop algorithms that could assist PwT1D in managing their blood glucose more effectively. Automated insulin delivery (AID) has been shown to improve glycaemic control. However, access to AID remains variable in many parts of the world and there are limited publicly available comprehensive datasets required for algorithm development in scenarios where AID systems revert to manual mode. This study addresses this gap by providing a detailed multimodal dataset encompassing five key aspects: blood glucose levels, basal (rapid- or long-acting) and bolus insulin dosages, nutritional intake (including carbohydrates, protein, fat and fibre content), physical activity (steps count, active calories, distance covered, MET and intensity level), and sleep patterns. The dataset comprises longitudinal (3 months) data collected from 17 PwT1D, in real-world settings. By offering this resource, the study aims to facilitate advancements in algorithm development, ultimately enhancing diabetes management and expanding support for PwT1D in settings where AID use is less prevalent.
+authors:
+  - family-names: Alsuhaymi
+    given-names: Ashwaq
+    orcid: "https://orcid.org/0000-0002-6651-283X"
+  - family-names: Bilal
+    given-names: Ahmad
+    orcid: "https://orcid.org/0000-0003-0296-122X"
+  - family-names: Gasca Garcia
+    given-names: Daniel
+    orcid: "https://orcid.org/0000-0002-3944-3234"
+  - family-names: Kongdee
+    given-names: Rujiravee
+    orcid: "https://orcid.org/0000-0003-0375-2833"
+  - family-names: Lubasinski
+    given-names: Nicole
+    orcid: "https://orcid.org/0000-0001-5829-8258"
+  - family-names: Hood
+    given-names: Thabit
+    orcid: "https://orcid.org/0000-0001-6076-6997"
+  - family-names: Paul
+    given-names: Nutter
+    orcid: "https://orcid.org/0000-0003-4075-861X"
+  - family-names: Harper
+    given-names: Simon
+    orcid: "https://orcid.org/0000-0001-9301-5049"
+version: 0.1.0
+date-released: "2025-04-07"
+identifiers:
+  - description: This is the collection of archived snapshots of all versions of the Coordinated Diabetes Study
+    type: doi
+    value: "10.5281/zenodo.123456"
+license: CC-BY-4.0
+repository-code: "https://github.com/sharpic/ManchesterCSCoordinatedDiabetesStudy"
