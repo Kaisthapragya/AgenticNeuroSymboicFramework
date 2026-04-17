@@ -1,9 +1,6 @@
 # AgenticNeuroSymboicFramework
 An Agentic Neuro-Symbolic Framework for Explainable Chronic Disease Monitoring in Smart Healthcare
 
-
-# Neuro-Symbolic Diabetes Risk Prediction
-
 ## Overview
 A hybrid AI system combining **LSTM/Transformer + symbolic rules** to predict diabetes risk and generate actionable alerts.
 
